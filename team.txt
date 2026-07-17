@@ -1,1 +1,2 @@
 Welcome to StringStack-TeamStack repo
+lets understand git
